@@ -17,7 +17,7 @@ public class Main{
             }
             if (v[i] > a) {
                 a = v[i];
-            }if (v[i] < b) {
+            }else if (v[i] < b) {
                 b = v[i];
             }
         }
